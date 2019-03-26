@@ -11,6 +11,3 @@ To install this script follow these steps:
 To see all views from Linkedin page, go to https://www.linkedin.com/me/profile-views/urn:li:wvmp:summary/ and in your browser select to save page as HTML only. Save file as **LinkedIn.htm** into `/raw` folder.
 
 Run `npm start` to display all views.
-
----
-If you like this script, come to say _Hello_ on my [Facebook page](https://www.facebook.com/vladimir.webdesign/). Cheers!
